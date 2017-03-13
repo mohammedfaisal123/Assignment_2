@@ -17,6 +17,7 @@
     { padding: 0 0 20px 0;
       line-height: 1.7em;}
 
+<<<<<<< HEAD
     /* Styling the header for Liverpool FC */
 
     header.Liverpooltitle {
@@ -40,6 +41,8 @@
       color:white;
     }
 
+=======
+>>>>>>> 1fcbe402e39eb401dc0be5801ae877fa4a111a2f
     /* Styling the headings */
 
     h1, h2, h3, h4, h5, h6 
@@ -85,7 +88,11 @@
     #header
     { 
       border-bottom: 2px solid #FFFFFF;
+<<<<<<< HEAD
       background: transparent url(footballbanner.png) no-repeat;
+=======
+      background: transparent url(pattern.png) no-repeat;
+>>>>>>> 1fcbe402e39eb401dc0be5801ae877fa4a111a2f
       height: 180px;}
       
       /* Styling the heading */
@@ -186,6 +193,10 @@
       padding: 0 0 4px 5px;
       line-height: 1.5em;}
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1fcbe402e39eb401dc0be5801ae877fa4a111a2f
      /* CSS for the footer including webkit transitions */
 
       #footer {
@@ -199,9 +210,15 @@
     #footer p {
 
       font-weight: bold;
+<<<<<<< HEAD
       font-size: 13px;
       font-family: consolas;
       color:white;}
+=======
+      font-size: 20px;
+      font-family: consolas;
+      color:black;}
+>>>>>>> 1fcbe402e39eb401dc0be5801ae877fa4a111a2f
 
     /* Styling for the icons of the footer */
 
